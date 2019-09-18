@@ -19,7 +19,7 @@ Miami, FL 33127
 | Time         | Description
 | ------------ |:-------------
 | 09:00 am     | Registration; Doors Open ; Breakfast 
-| 09:30 am     | Opening Remarksfrom ACLU of Greater Miami & Wilkie D. Ferguson Jr. Bar Association
+| 09:30 am     | Opening Remarks from ACLU of Greater Miami & Wilkie D. Ferguson Jr. Bar Association
 | 10:15 am     | Journey Mapping 101
 | 11:00 am     | Journey Mapping Voter Registration after Amendment 4
 | 12:00 pm     | Lunch
