@@ -1,8 +1,6 @@
 # National Day Of Civic Hacking 2018
 
-### [Registration (EventBrite)](https://www.eventbrite.com/e/national-day-of-civic-hacking-2018-code-for-miami-tickets-47450617073)
-
-### [Idea to Prototype Checklist](https://tinyurl.com/codeformiami)
+### [Registration (EventBrite)](https://www.eventbrite.com/e/national-day-of-civic-hacking-tickets-68727875927)
 
 ### About
 
