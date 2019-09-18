@@ -27,10 +27,11 @@ Miami, FL 33127
 | 03:30 pm     | Group Work Presentation Planning
 | 04:00 pm     | Group Work Presentations
 
-### Speakers
+### Speakers + Partners
 
 - [ACLU of Greater Miami](https://www.aclufl.org/en/chapters/greater-miami-chapter)
-- [ Wilkie D. Ferguson Jr. Bar Association](https://wdfjba.wildapricot.org/)
+- [Wilkie D. Ferguson Jr. Bar Association](https://wdfjba.wildapricot.org/)
+- [Wyncode](https://wyncode.co/)
 
 ## License
 
