@@ -33,3 +33,5 @@
 - Here is an example from Miami-Dade State’s Attorney’s site: http://www.miamisao.com/resources/expunge-records/
 - Local or State Reentry Resources
 - Collateral Consequences Resource Center: http://ccresourcecenter.org/
+
+Working Document: https://docs.google.com/document/d/1J5ZlQw4f5MRMJf_XiYRBULxxIfy3DNdHbQyD_WixN00/edit?usp=sharing
